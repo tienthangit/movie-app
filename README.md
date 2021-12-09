@@ -17,6 +17,9 @@ $ yarn start
 $ yarn generate
 ```
 
+## more info deploy (vv...)
+https://www.youtube.com/watch?v=IzLIXyZkKAA
+
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
 
 ## Special Directories
